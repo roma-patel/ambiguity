@@ -1,15 +1,10 @@
-import json, re
+import json, re, os, sys, nltk
 import numpy as np
-import nltk
 from nltk import ngrams, word_tokenize, sent_tokenize, pos_tag
-import gensim, logging
-import os
-import sys
-import collections
+import gensim, logging, collections
 from gensim import models
 from gensim.models import Phrases
 from gensim.models.keyedvectors import KeyedVectors
-annotypes = ['Participants', 'Intervention', 'Outcome']
 #path = '/Users/romapatel/Desktop/set/'
 
 def tokenize(s):
