@@ -1,0 +1,8 @@
+train by collapsing classes first instead of collapsing at test time
+1. {D} {G, O} in models_1
+2. {D, G} {O} in models_2
+
+highest recall, low precision
+highest prec, low recall
+
+stack svm --> log
