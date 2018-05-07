@@ -13,4 +13,4 @@ train on collapsed classes
 2. {D, G} {O} in models_2
 
 task_5
-train on titles instead of test fold, test on held out sampled from all titles
+train on titles instead of 10 fold, test on held out sampled from all titles
