@@ -1,0 +1,844 @@
+(u'ed', 494)
+[u'abandoned', u'abbreviated', u'abducted', u'accelerated', u'accepted', u'accounted', u'accredited', u'accrued', u'accumulated', u'achieved', u'acquired', u'activated', u'added', u'adjusted', u'admitted', u'adulterated', u'advanced', u'advised', u'affected', u'affiliated', u'affixed', u'afforded', u'aged', u'aggrieved', u'agreed', u'allied', u'allocated', u'allotted', u'altered', u'amended', u'amortized', u'annexed', u'annualized', u'anonymized', u'anticipated', u'antiquated', u'applied', u'appointed', u'apportioned', u'appreciated', u'appropriated', u'approved', u'armed', u'armored', u'assigned', u'assisted', u'associated', u'assumed', u'attached', u'authorized', u'automated', u'awarded', u'bargained', u'based', u'bed', u'biobased', u'blended', u'blighted', u'blocked', u'bodied', u'bonded', u'borrowed', u'bottled', u'bundled', u'burdened', u'canned', u'capitalized', u'captured', u'carbonized', u'centralized', u'certificated', u'certified', u'charged', u'claimed', u'classified', u'cleared', u'closed', u'coalbed', u'collected', u'collocated', u'colored', u'combined', u'commenced', u'commingled', u'commissioned', u'committed', u'compartmented', u'compensated', u'completed', u'compounded', u'compressed', u'computed', u'concentrated', u'concerned', u'configured', u'confiscated', u'congested', u'connected', u'considered', u'consolidated', u'constructed', u'consumed', u'contained', u'contributed', u'controlled', u'converted', u'convicted', u'coordinated', u'correlated', u'covered', u'credited', u'cultivated', u'customized', u'damaged', u'deceased', u'declared', u'dedicated', u'deed', u'deemed', u'defaulted', u'deferred', u'defined', u'degreased', u'delayed', u'delegated', u'demilitarized', u'denied', u'depicted', u'depleted', u'deployed', u'deposited', u'depreciated', u'depressed', u'derived', u'described', u'designated', u'detailed', u'deteriorated', u'determined', u'developed', u'devoted', u'diagnosed', u'directed', u'disabled', u'disadvantaged', u'disallowed', u'discarded', u'disconnected', u'discounted', u'disinterested', u'dislocated', u'displaced', u'disqualified', u'distilled', u'distressed', u'distributed', u'diversified', u'divorced', u'documented', u'dredged', u'dyed', u'earned', u'educated', u'elected', u'embedded', u'employed', u'enclosed', u'endangered', u'engaged', u'engineered', u'enhanced', u'enlisted', u'enriched', u'enrolled', u'entered', u'entitled', u'enumerated', u'established', u'estimated', u'exceed', u'excepted', u'excluded', u'executed', u'exempted', u'expanded', u'expatriated', u'expected', u'expedited', u'expended', u'exploited', u'exported', u'exposed', u'expressed', u'extended', u'failed', u'feed', u'filled', u'financed', u'finished', u'fixed', u'fluidized', u'franked', u'fueled', u'funded', u'generated', u'geopressured', u'gifted', u'graduated', u'grandfathered', u'guaranteed', u'handicapped', u'harvested', u'hired', u'identified', u'illuminated', u'impacted', u'impaired', u'implied', u'imported', u'imposed', u'impoverished', u'imprisoned', u'improved', u'imputed', u'incarcerated', u'included', u'incorporated', u'incurred', u'indebted', u'indemnified', u'indicated', u'individualized', u'inferred', u'inspected', u'installed', u'institutionalized', u'insured', u'integrated', u'interconnected', u'interested', u'interrelated', u'intoxicated', u'involved', u'issued', u'laminated', u'landed', u'leased', u'leveraged', u'licensed', u'limited', u'liquefied', u'listed', u'loaned', u'located', u'managed', u'mandated', u'manufactured', u'marketed', u'matured', u'misbranded', u'mixed', u'mobilized', u'modified', u'monitored', u'motivated', u'motorized', u'named', u'need', u'neglected', u'negotiated', u'nominated', u'nonadmitted', u'nonaffiliated', u'nonappropriated', u'noncommissioned', u'noncontrolled', u'nondesignated', u'noninstitutionalized', u'noninsured', u'nonissued', u'nonmotorized', u'nonqualified', u'nonrecaptured', u'nonregulated', u'nonvested', u'notified', u'obligated', u'odorized', u'offered', u'oilseed', u'ordained', u'ordered', u'organized', u'oriented', u'overfeed', u'owned', u'packaged', u'paired', u'participated', u'partitioned', u'perceived', u'perfected', u'performed', u'permitted', u'personalized', u'placed', u'planted', u'pledged', u'polychlorinated', u'pooled', u'potted', u'preauthorized', u'precomputed', u'predetermined', u'predicted', u'preferred', u'prepared', u'prescribed', u'presubscribed', u'presumed', u'privileged', u'proceed', u'processed', u'procured', u'produced', u'prohibited', u'propagated', u'proposed', u'prorated', u'proscribed', u'protected', u'provided', u'published', u'pulled', u'purchased', u'qualified', u'rapeseed', u'rated', u'ratified', u'received', u'recognized', u'recommended', u'recorded', u'recovered', u'recycled', u'redesignated', u'redetermined', u'redomesticated', u'reduced', u'referred', u'refined', u'reformulated', u'refrigerated', u'registered', u'regulated', u'rehabilitated', u'related', u'remanufactured', u'removed', u'renewed', u'renovated', u'replaced', u'reported', u'reprocessed', u'reproduced', u'required', u'reserved', u'restored', u'restricted', u'restructured', u'retained', u'retarded', u'retired', u'reviewed', u'revised', u'sanctioned', u'satisfied', u'scheduled', u'seabed', u'sealed', u'secured', u'seed', u'segregated', u'selected', u'separated', u'served', u'shared', u'shelled', u'sheltered', u'signed', u'simplified', u'sited', u'situated', u'skilled', u'smuggled', u'specialized', u'specified', u'speed', u'stabilized', u'standardized', u'stapled', u'started', u'stated', u'stockpiled', u'stored', u'striped', u'stripped', u'structured', u'submerged', u'submitted', u'subordinated', u'subsidized', u'supervised', u'supported', u'suspended', u'sustained', u'talented', u'targeted', u'threatened', u'tied', u'tipped', u'traded', u'trained', u'transferred', u'transmitted', u'treated', u'trended', u'troubled', u'trusted', u'unaccompanied', u'unaffiliated', u'unanticipated', u'unapproved', u'unauthenticated', u'unauthorized', u'unclaimed', u'uncompensated', u'uncosted', u'uncovered', u'undefinitized', u'undercapitalized', u'underplanted', u'underrepresented', u'underserved', u'understated', u'underutilized', u'undeveloped', u'undiscounted', u'undistributed', u'undivided', u'unearned', u'unemployed', u'unencumbered', u'unenhanced', u'unexpected', u'unexpired', u'unfired', u'unfunded', u'unified', u'uniformed', u'uninspected', u'uninsured', u'united', u'unlicensed', u'unoccupied', u'unprivileged', u'unprocessed', u'unrealized', u'unrecognized', u'unrecovered', u'unregistered', u'unregulated', u'unrelated', u'unreported', u'unresolved', u'unsafeguarded', u'unsatisfied', u'unscheduled', u'unsecured', u'unserved', u'unsolicited', u'unsubsidized', u'untaxed', u'unused', u'updated', u'urbanized', u'used', u'validated', u'verified', u'vested', u'watershed', u'weatherized', u'weed', u'worked']
+
+
+(u'ng', 422)
+[u'abusing', u'accompanying', u'accounting', u'accrediting', u'acquiring', u'acting', u'adjoining', u'administering', u'advertising', u'affecting', u'aggravating', u'aging', u'among', u'answering', u'antidumping', u'antifouling', u'anything', u'arising', u'assuring', u'attending', u'auditing', u'authorizing', u'awaiting', u'balloting', u'banking', u'bargaining', u'beginning', u'being', u'benchmarking', u'betting', u'bidding', u'billing', u'binding', u'bioengineering', u'blasting', u'blending', u'blocking', u'boating', u'bonding', u'booking', u'borrowing', u'boxing', u'bring', u'bringing', u'broadcasting', u'building', u'bundling', u'calling', u'carrying', u'casting', u'ceiling', u'certifying', u'changing', u'chartering', u'checking', u'chewing', u'classifying', u'clearing', u'closing', u'clothing', u'collecting', u'commanding', u'commissioning', u'commuting', u'compensating', u'complaining', u'compounding', u'computing', u'concentrating', u'condensing', u'conditioning', u'conferencing', u'conforming', u'connecting', u'conserving', u'containing', u'continuing', u'contracting', u'controlling', u'cooling', u'cooperating', u'coordinating', u'copying', u'corresponding', u'counseling', u'countervailing', u'covering', u'creating', u'crosscutting', u'crossing', u'crowdsourcing', u'curing', u'damaging', u'dating', u'debriefing', u'declining', u'demining', u'describing', u'designating', u'detailing', u'determining', u'developing', u'dialing', u'disclosing', u'dispatching', u'dispensing', u'displacing', u'disqualifying', u'dissenting', u'donating', u'downblending', u'downgrading', u'drilling', u'drinking', u'driving', u'dumping', u'during', u'dwelling', u'electing', u'electioneering', u'embracing', u'emerging', u'emitting', u'employing', u'enabling', u'ending', u'engineering', u'ensuring', u'establishing', u'examining', u'exchanging', u'existing', u'exploiting', u'exporting', u'facilitating', u'factoring', u'failing', u'farming', u'feeding', u'fielding', u'fighting', u'filing', u'financing', u'finding', u'firefighting', u'fishing', u'fitting', u'floating', u'flowering', u'flying', u'fondling', u'formulating', u'franchising', u'freestanding', u'fulfilling', u'funding', u'furnishing', u'gambling', u'gaming', u'gang', u'gathering', u'generating', u'going', u'governing', u'grading', u'grazing', u'growing', u'guaranteeing', u'handling', u'hatching', u'having', u'hazing', u'hearing', u'heating', u'hedging', u'hiring', u'holding', u'housing', u'hovering', u'hunting', u'identifying', u'imaging', u'implementing', u'importing', u'impounding', u'improving', u'including', u'indemnifying', u'indexing', u'influencing', u'inholding', u'inspecting', u'intoxicating', u'introducing', u'investigating', u'involving', u'islanding', u'kidnapping', u'killing', u'king', u'knowing', u'labeling', u'landholding', u'landing', u'launching', u'laundering', u'laying', u'learning', u'leasing', u'lending', u'licensing', u'lighting', u'limiting', u'liquidating', u'listing', u'living', u'loading', u'lobbying', u'lodging', u'logging', u'long', u'lubricating', u'lung', u'mailing', u'maintaining', u'making', u'managing', u'manufacturing', u'mapping', u'marketing', u'marking', u'matching', u'maturing', u'meaning', u'meeting', u'mentoring', u'messaging', u'mining', u'misleading', u'missing', u'modeling', u'monitoring', u'moving', u'neighboring', u'netting', u'networking', u'nominating', u'nonoffending', u'nonoperating', u'nonoriginating', u'nonparticipating', u'nonperforming', u'nonqualifying', u'nothing', u'notwithstanding', u'nursing', u'occurring', u'offering', u'offsetting', u'ongoing', u'operating', u'ordering', u'originating', u'outfitting', u'outlying', u'outsourcing', u'outstanding', u'overcrowding', u'overloading', u'overriding', u'overseeing', u'packaging', u'packing', u'parking', u'participating', u'passing', u'paying', u'peacekeeping', u'peaking', u'pending', u'performing', u'permitting', u'petitioning', u'piercing', u'placing', u'planning', u'planting', u'positioning', u'posting', u'preceding', u'preexisting', u'preparing', u'presiding', u'prevailing', u'pricing', u'proceeding', u'processing', u'procuring', u'producing', u'programming', u'promoting', u'prospecting', u'providing', u'publishing', u'purchasing', u'qualifying', u'racing', u'racketeering', u'ranching', u'ratemaking', u'rating', u'reading', u'rebuilding', u'recasting', u'receiving', u'reciprocating', u'recommissioning', u'reconditioning', u'reconverting', u'recording', u'recordkeeping', u'recycling', u'redomesticating', u'referring', u'refiling', u'refinancing', u'refining', u'reimbursing', u'relating', u'relocating', u'remaining', u'remining', u'rendering', u'reporting', u'repowering', u'restraining', u'restructuring', u'resulting', u'retrocommissioning', u'returning', u'reviewing', u'revolving', u'rulemaking', u'sailing', u'sampling', u'sanctioning', u'saving', u'screening', u'sealing', u'seeking', u'selecting', u'selling', u'sending', u'sensing', u'servicing', u'serving', u'setting', u'settling', u'sharing', u'shipbuilding', u'shipping', u'sibling', u'siting', u'sliding', u'smelting', u'spending', u'spinning', u'splashing', u'sponsoring', u'stalking', u'standing', u'starting', u'steering', u'stockpiling', u'straddling', u'stranding', u'strangling', u'subcontracting', u'suffering', u'suffocating', u'supplying', u'supporting', u'surrounding', u'surviving', u'swimming', u'switching', u'taking', u'targeting', u'taxing', u'teaching', u'telecommuting', u'telemarketing', u'testing', u'texting', u'thing', u'threatening', u'towing', u'tracking', u'trading', u'trafficking', u'training', u'transcending', u'transmitting', u'transporting', u'undermining', u'understanding', u'underwriting', u'undoing', u'using', u'vending', u'viewing', u'visiting', u'voting', u'wagering', u'wearing', u'weighing', u'whaling', u'withholding', u'working', u'writing', u'yielding', u'young']
+
+
+(u'on', 383)
+[u'abduction', u'acceleration', u'accommodation', u'accreditation', u'acidification', u'acquisition', u'action', u'activation', u'adaptation', u'addition', u'adjudication', u'administration', u'admission', u'adoption', u'affiliation', u'aggravation', u'allocation', u'alteration', u'ammunition', u'amortization', u'application', u'appreciation', u'appropriation', u'arson', u'articulation', u'assassination', u'association', u'auction', u'authorization', u'aversion', u'aviation', u'balloon', u'button', u'calculation', u'cancellation', u'capitalization', u'carbon', u'certification', u'cessation', u'chairperson', u'characterization', u'classification', u'coalition', u'coercion', u'cogeneration', u'collaboration', u'collection', u'combination', u'combustion', u'commercialization', u'commission', u'common', u'communication', u'companion', u'compensation', u'competition', u'compilation', u'completion', u'complication', u'computation', u'concentration', u'concession', u'conciliation', u'condition', u'configuration', u'confiscation', u'connection', u'conservation', u'consideration', u'consolidation', u'construction', u'consultation', u'consummation', u'consumption', u'continuation', u'contravention', u'contribution', u'convention', u'conversion', u'conviction', u'cooperation', u'coordination', u'corporation', u'correction', u'corrosion', u'cotton', u'coupon', u'creation', u'criterion', u'decision', u'declaration', u'decommission', u'decoration', u'deduction', u'defamation', u'definition', u'demolition', u'demonstration', u'depiction', u'depletion', u'depreciation', u'description', u'desegregation', u'designation', u'destination', u'destruction', u'detection', u'detention', u'determination', u'detoxification', u'diffusion', u'direction', u'discrimination', u'dislocation', u'dispensation', u'disposition', u'disqualification', u'disruption', u'dissemination', u'dissolution', u'distortion', u'distribution', u'diversion', u'division', u'documentation', u'dodson', u'donation', u'education', u'election', u'electrification', u'elimination', u'emission', u'encryption', u'erosion', u'evacuation', u'evaluation', u'evasion', u'examination', u'exception', u'exclusion', u'execution', u'exemption', u'exhibition', u'expansion', u'expatriation', u'experimentation', u'expiration', u'exploitation', u'exploration', u'expression', u'expropriation', u'extension', u'extortion', u'extraction', u'formation', u'foundation', u'fraction', u'friction', u'function', u'fusion', u'gallon', u'gasification', u'generation', u'germination', u'habilitation', u'horizon', u'hospitalization', u'hydrocarbon', u'identification', u'imitation', u'immigration', u'immunization', u'implementation', u'importation', u'incineration', u'inclusion', u'indemnification', u'indication', u'infection', u'inflation', u'information', u'innovation', u'insolation', u'inspection', u'installation', u'institution', u'instruction', u'instrumentation', u'insulation', u'integration', u'interaction', u'interconnection', u'interdiction', u'internationalization', u'interruption', u'intervention', u'intoxication', u'intrusion', u'invention', u'inversion', u'investigation', u'iron', u'irrigation', u'jurisdiction', u'justification', u'legislation', u'limitation', u'liquidation', u'litigation', u'location', u'magnuson', u'malnutrition', u'manipulation', u'marion', u'mediation', u'medication', u'migration', u'minimization', u'misappropriation', u'misrepresentation', u'mission', u'mitigation', u'mobilization', u'modernization', u'modification', u'motion', u'munition', u'nation', u'navigation', u'negotiation', u'neutron', u'nonallocation', u'nondegradation', u'nondiscrimination', u'nonprescription', u'nonproliferation', u'notification', u'nutrition', u'obligation', u'observation', u'obstruction', u'occupation', u'omission', u'operation', u'opposition', u'option', u'oregon', u'organization', u'orion', u'participation', u'pension', u'pentagon', u'perfection', u'person', u'petition', u'pollution', u'population', u'portion', u'position', u'positron', u'possession', u'preacquisition', u'preconstruction', u'preemption', u'preparation', u'prescription', u'preservation', u'prevention', u'prison', u'privatization', u'probation', u'proclamation', u'production', u'profession', u'proliferation', u'promotion', u'proportion', u'propulsion', u'proration', u'prosecution', u'prostitution', u'protection', u'provision', u'publication', u'qualification', u'radiation', u'radon', u'readmission', u'reamortization', u'reason', u'reception', u'reclamation', u'recognition', u'recommendation', u'recomputation', u'reconstruction', u'recreation', u'redemption', u'redesignation', u'redetermination', u'redomestication', u'reduction', u'reforestation', u'refrigeration', u'region', u'registration', u'regulation', u'rehabilitation', u'reinspection', u'reintegration', u'reinvention', u'relation', u'religion', u'relocation', u'remuneration', u'renovation', u'reorganization', u'representation', u'reproduction', u'rescission', u'reservation', u'resolution', u'restoration', u'restriction', u'resubmission', u'retention', u'reversion', u'salmon', u'sanction', u'sanitation', u'season', u'seclusion', u'section', u'securitization', u'segregation', u'selection', u'separation', u'sequestration', u'simulation', u'situation', u'solicitation', u'son', u'spallation', u'station', u'subdivision', u'submission', u'subpopulation', u'subscription', u'subsection', u'superstation', u'supervision', u'supplementation', u'suppression', u'surgeon', u'suspension', u'tarpon', u'taxation', u'telecommunication', u'television', u'termination', u'ton', u'traction', u'transaction', u'transition', u'transmission', u'transplantation', u'transportation', u'tuition', u'union', u'upon', u'utilization', u'valuation', u'vegetation', u'verification', u'version', u'vibration', u'violation', u'washington', u'watermelon', u'weapon', u'weaponization', u'weatherization', u'yukon']
+
+
+(u'al', 291)
+[u'abdominal', u'accidental', u'accrual', u'actual', u'actuarial', u'additional', u'aeronautical', u'agricultural', u'algal', u'alluvial', u'animal', u'annual', u'antimicrobial', u'appraisal', u'approval', u'archaeological', u'archeological', u'architectural', u'arrival', u'arsenal', u'artificial', u'audiovisual', u'aural', u'behavioral', u'beneficial', u'biennial', u'bilateral', u'biological', u'biomedical', u'botanical', u'burial', u'canal', u'capital', u'casual', u'central', u'chemical', u'clerical', u'clinical', u'coal', u'coastal', u'collateral', u'colorectal', u'commercial', u'computational', u'concessional', u'conditional', u'confidential', u'congressional', u'constitutional', u'continental', u'contractual', u'conventional', u'coral', u'correctional', u'credential', u'criminal', u'critical', u'cultural', u'custodial', u'deal', u'deferral', u'dental', u'departmental', u'developmental', u'differential', u'digital', u'disapproval', u'disposal', u'dual', u'ecological', u'economical', u'educational', u'emotional', u'environmental', u'equal', u'essential', u'ethnological', u'exceptional', u'experimental', u'external', u'extramural', u'familial', u'federal', u'fetal', u'final', u'financial', u'fiscal', u'floral', u'focal', u'formal', u'foundational', u'fractional', u'functional', u'fundamental', u'general', u'geographical', u'geospatial', u'geothermal', u'global', u'goal', u'governmental', u'historical', u'horticultural', u'hospital', u'hypothetical', u'identical', u'illegal', u'impartial', u'inaugural', u'incidental', u'incremental', u'individual', u'industrial', u'informal', u'initial', u'institutional', u'instructional', u'instrumental', u'intellectual', u'intentional', u'intergovernmental', u'interjurisdictional', u'intermodal', u'intermunicipal', u'internal', u'international', u'intertribal', u'intracoastal', u'investigational', u'judicial', u'jurisdictional', u'legal', u'lethal', u'lineal', u'local', u'mammal', u'managerial', u'marginal', u'marshal', u'material', u'mathematical', u'mechanical', u'medal', u'medical', u'memorial', u'mental', u'metal', u'mineral', u'ministerial', u'multigenerational', u'multijurisdictional', u'multilateral', u'multimodal', u'multinational', u'municipal', u'musical', u'mutual', u'national', u'natural', u'nautical', u'naval', u'neutral', u'nominal', u'noncommercial', u'noncriminal', u'noncustodial', u'nondeferral', u'nondepartmental', u'nondevelopmental', u'nonfinancial', u'nonfunctional', u'nongovernmental', u'nonindustrial', u'noninstructional', u'nonlocal', u'nonmedical', u'nonmineral', u'nonoperational', u'nonpersonal', u'nonrenewal', u'nonresidential', u'nonstructural', u'nontraditional', u'normal', u'notional', u'numerical', u'nutritional', u'occupational', u'official', u'opal', u'operational', u'optional', u'oral', u'orbital', u'organizational', u'original', u'paleontological', u'paraprofessional', u'parental', u'partial', u'peripheral', u'personal', u'pharmaceutical', u'physical', u'pictorial', u'plural', u'political', u'portal', u'postal', u'potential', u'practical', u'preferential', u'prenatal', u'preoperational', u'presidential', u'pretrial', u'principal', u'procedural', u'professional', u'promotional', u'propagational', u'proposal', u'prudential', u'psychosocial', u'quadrennial', u'racial', u'radiological', u'radiopharmaceutical', u'real', u'reburial', u'recordal', u'recreational', u'referral', u'refusal', u'regional', u'remedial', u'removal', u'renal', u'renewal', u'rental', u'representational', u'residential', u'residual', u'rural', u'sculptural', u'seal', u'seasonal', u'semipostal', u'serial', u'several', u'sexual', u'signal', u'silvicultural', u'situational', u'social', u'special', u'spousal', u'statistical', u'structural', u'suborbital', u'subseasonal', u'substantial', u'subterminal', u'supplemental', u'surgical', u'survival', u'technical', u'technological', u'telemental', u'terminal', u'territorial', u'thermal', u'tidal', u'total', u'traditional', u'transactional', u'transitional', u'transmittal', u'transnational', u'trial', u'tribal', u'tropical', u'unilateral', u'universal', u'unofficial', u'unusual', u'urinal', u'vertical', u'visual', u'vocational', u'withdrawal']
+
+
+(u'er', 288)
+[u'accuser', u'administer', u'adviser', u'after', u'alter', u'another', u'appraiser', u'aquifer', u'archer', u'assembler', u'astronomer', u'authorizer', u'banker', u'barrier', u'barter', u'beer', u'bidder', u'biomarker', u'boiler', u'border', u'borrower', u'bottler', u'boxer', u'breeder', u'brewer', u'broker', u'buyer', u'caller', u'camcorder', u'cancer', u'cardholder', u'career', u'caregiver', u'caretaker', u'carrier', u'center', u'chapter', u'charger', u'charter', u'charterer', u'cluster', u'commander', u'commissioner', u'commuter', u'comptroller', u'computer', u'conditioner', u'confer', u'consumer', u'container', u'controller', u'convener', u'cooler', u'copper', u'counter', u'cover', u'crewmember', u'customer', u'cyber', u'danger', u'daughter', u'dealer', u'december', u'deepwater', u'defender', u'dehumidifier', u'deliver', u'developer', u'disaster', u'dishwasher', u'disorder', u'dispenser', u'distiller', u'driver', u'earlier', u'either', u'elder', u'employer', u'enter', u'examiner', u'exporter', u'farmer', u'farmworker', u'fastener', u'father', u'feeder', u'fiber', u'firefighter', u'fisher', u'flushometer', u'flyer', u'former', u'forwarder', u'foster', u'frontier', u'further', u'gender', u'gleaner', u'graywater', u'greater', u'grower', u'guzzler', u'handler', u'harvester', u'header', u'healer', u'heater', u'hereinafter', u'higher', u'holder', u'homebuyer', u'homemaker', u'homeowner', u'however', u'hydropower', u'identifier', u'importer', u'improper', u'inner', u'insider', u'insurer', u'interrater', u'islander', u'isomer', u'issuer', u'jobber', u'labeler', u'landowner', u'later', u'leader', u'leaker', u'learner', u'lender', u'letter', u'liner', u'lower', u'maker', u'manager', u'manner', u'manufacturer', u'marker', u'marketer', u'master', u'matchmaker', u'matter', u'member', u'merger', u'meter', u'miner', u'minister', u'mother', u'multiemployer', u'murder', u'newspaper', u'noncareer', u'nonmember', u'november', u'number', u'observer', u'odometer', u'offender', u'offer', u'officer', u'older', u'order', u'other', u'otter', u'outer', u'outfitter', u'over', u'owner', u'packer', u'paper', u'partner', u'passenger', u'passholder', u'pawnbroker', u'payer', u'peer', u'per', u'perimeter', u'petitioner', u'photographer', u'planner', u'policyholder', u'power', u'practitioner', u'preparer', u'prescriber', u'prisoner', u'producer', u'promoter', u'propeller', u'proposer', u'provider', u'publisher', u'purchaser', u'quarter', u'rancher', u'receiver', u'recorder', u'refiner', u'register', u'reinsurer', u'reliever', u'remainder', u'renderer', u'repackager', u'reseller', u'responder', u'retailer', u'retainer', u'rider', u'rightholder', u'river', u'rollover', u'rubber', u'sampler', u'seafarer', u'securitizer', u'seller', u'sender', u'september', u'servicemember', u'servicer', u'shareholder', u'sheller', u'shelter', u'shipper', u'silver', u'slaughter', u'smaller', u'soldier', u'sprinkler', u'stabilizer', u'stakeholder', u'stockbroker', u'stockholder', u'subchapter', u'subscriber', u'summer', u'supplier', u'tamper', u'tanker', u'taxpayer', u'teacher', u'teletypewriter', u'teller', u'tender', u'theater', u'thereafter', u'thereunder', u'tier', u'timber', u'toddler', u'trader', u'trafficker', u'trailer', u'transfer', u'transformer', u'transmitter', u'transporter', u'traveler', u'trigger', u'tuber', u'under', u'undercover', u'underwriter', u'upper', u'user', u'volunteer', u'voter', u'voucher', u'wager', u'waiver', u'washer', u'water', u'weather', u'webcaster', u'weigher', u'whether', u'whichever', u'whistleblower', u'whoever', u'wholesaler', u'widower', u'worker', u'writer']
+
+
+(u'nt', 253)
+[u'abandonment', u'abatement', u'absent', u'accident', u'accompaniment', u'account', u'achievement', u'acknowledgement', u'adherent', u'adjacent', u'adjustment', u'adolescent', u'advertisement', u'agent', u'agreement', u'allotment', u'amendment', u'amount', u'announcement', u'annuitant', u'annulment', u'appellant', u'applicant', u'appoint', u'appointment', u'apportionment', u'arrangement', u'assessment', u'assignment', u'assistant', u'attachment', u'attainment', u'attendant', u'attributespresident', u'belligerent', u'betterment', u'catchment', u'cement', u'circumvent', u'claimant', u'client', u'combatant', u'commandant', u'commencement', u'comment', u'commitment', u'competent', u'complainant', u'compliant', u'component', u'concurrent', u'confinement', u'consent', u'consignment', u'consistent', u'constant', u'constituent', u'consultant', u'containment', u'contaminant', u'content', u'contestant', u'contingent', u'convenient', u'correspondent', u'count', u'covenant', u'current', u'curtailment', u'debarment', u'defendant', u'deficient', u'defoliant', u'delinquent', u'department', u'dependent', u'deployment', u'depressant', u'descendant', u'desiccant', u'development', u'different', u'disbursement', u'discount', u'distant', u'divestment', u'document', u'downpayment', u'easement', u'efficient', u'effluent', u'element', u'elephant', u'employment', u'empowerment', u'enactment', u'endorsement', u'endowment', u'endpoint', u'enforcement', u'engagement', u'enhancement', u'enlistment', u'enrichment', u'enrollment', u'entertainment', u'entitlement', u'entrant', u'entrustment', u'environment', u'equipment', u'equivalent', u'establishment', u'event', u'experiment', u'extent', u'fingerprint', u'fluorescent', u'fraudulent', u'fulfillment', u'garnishment', u'government', u'grandparent', u'grant', u'harassment', u'hunt', u'immigrant', u'imminent', u'impairment', u'implant', u'implement', u'impoundment', u'imprisonment', u'improvement', u'incandescent', u'incident', u'incumbent', u'indecent', u'independent', u'indictment', u'infant', u'informant', u'infringement', u'ingredient', u'inherent', u'injectant', u'inpatient', u'insolvent', u'installment', u'instrument', u'intelligent', u'intent', u'internment', u'investment', u'involvement', u'joint', u'judgment', u'maltreatment', u'management', u'measurement', u'merchant', u'midpoint', u'migrant', u'mint', u'mismanagement', u'monument', u'movement', u'multicomponent', u'negligent', u'nonattainment', u'noncompliant', u'nondevelopment', u'nonentitlement', u'nonimmigrant', u'nonpregnant', u'nonprocurement', u'nonresident', u'nontransient', u'nonviolent', u'occupant', u'outpatient', u'overpayment', u'paint', u'parent', u'participant', u'patent', u'patient', u'pavement', u'payment', u'percent', u'permanent', u'placement', u'plant', u'point', u'pollutant', u'powerplant', u'pregnant', u'prejudgment', u'preretirement', u'present', u'president', u'print', u'procurement', u'proficient', u'prudent', u'pursuant', u'realignment', u'recalcitrant', u'recent', u'recipient', u'refrigerant', u'registrant', u'reimbursement', u'reinvestment', u'relevant', u'rent', u'repayment', u'replacement', u'represent', u'requirement', u'resident', u'resistant', u'respondent', u'restaurant', u'restraint', u'retirement', u'saddlemount', u'segment', u'sergeant', u'settlement', u'shipment', u'significant', u'solvent', u'spent', u'statement', u'stimulant', u'student', u'subrecipient', u'supercompliant', u'supplement', u'tenant', u'transient', u'transshipment', u'treatment', u'underpayment', u'understatement', u'unemployment', u'urgent', u'vacant', u'variant', u'violent', u'warrant', u'waterfront']
+
+
+(u'es', 209)
+[u'acres', u'activities', u'actuaries', u'addresses', u'agencies', u'allies', u'allowances', u'alternatives', u'analyses', u'apples', u'applies', u'archives', u'articles', u'assemblies', u'authorities', u'automobiles', u'bodies', u'boundaries', u'candidates', u'capabilities', u'cases', u'categories', u'causes', u'certificates', u'certifies', u'changes', u'charges', u'chimpanzees', u'churches', u'cigarettes', u'circumstances', u'clothes', u'coaches', u'codes', u'collectibles', u'committees', u'commodities', u'communities', u'companies', u'cooperatives', u'coordinates', u'copies', u'counterparties', u'counties', u'countries', u'courses', u'crimes', u'crises', u'damages', u'demonstrates', u'derivatives', u'determines', u'devices', u'devises', u'diabetes', u'differences', u'disabilities', u'disagrees', u'disclosures', u'diseases', u'disputes', u'divorces', u'does', u'dues', u'duties', u'employees', u'entities', u'examplesexamples', u'excludes', u'executives', u'expenditures', u'expenses', u'explosives', u'eyeglasses', u'facilities', u'families', u'fees', u'fisheries', u'fishes', u'forces', u'franchises', u'futures', u'grades', u'grantees', u'grapes', u'guidelines', u'hostilities', u'incites', u'includes', u'indicates', u'indices', u'industries', u'institutes', u'issues', u'judges', u'laboratories', u'lakes', u'leases', u'legacies', u'lenses', u'lessees', u'liabilities', u'licenses', u'lifelines', u'lines', u'losses', u'measures', u'messages', u'milestones', u'minorities', u'monies', u'mortgages', u'municipalities', u'names', u'natives', u'notes', u'notifies', u'nurses', u'offenses', u'offices', u'operates', u'opportunities', u'ores', u'outcomes', u'parties', u'peoples', u'performances', u'persuades', u'pesticides', u'places', u'potatoes', u'practices', u'premises', u'prices', u'principles', u'privileges', u'procedures', u'properties', u'proposes', u'provides', u'proxies', u'purchases', u'purposes', u'quantities', u'rates', u'recognizes', u'reimburses', u'remittances', u'representatives', u'requires', u'reserves', u'residences', u'resides', u'resources', u'responsibilities', u'revenues', u'roles', u'royalties', u'rules', u'sales', u'schedules', u'sciences', u'secretaries', u'securities', u'services', u'shares', u'signatories', u'sites', u'sources', u'spaces', u'species', u'states', u'statutes', u'stores', u'strategies', u'structures', u'studies', u'subcommittees', u'subsidies', u'substances', u'supplies', u'sweepstakes', u'tables', u'takes', u'taxes', u'techniques', u'technologies', u'tenancies', u'territories', u'textiles', u'times', u'tires', u'titles', u'trees', u'tribes', u'trustees', u'types', u'undertakes', u'uses', u'utilities', u'vaccines', u'valuables', u'values', u'variances', u'vegetables', u'vehicles', u'videotapes', u'villages', u'wages']
+
+
+(u'le', 176)
+[u'acceptable', u'accessible', u'achievable', u'adjustable', u'affordable', u'allocable', u'allowable', u'amenable', u'amortizable', u'applicable', u'article', u'attributable', u'automobile', u'available', u'bicycle', u'bottle', u'bundle', u'cable', u'capable', u'cattle', u'charitable', u'chile', u'colorable', u'comparable', u'compatible', u'compensable', u'consumable', u'convertible', u'countable', u'couple', u'creditable', u'cycle', u'deductible', u'degradable', u'deployable', u'depreciable', u'detachable', u'disclosable', u'disposable', u'disputable', u'distributable', u'domicile', u'double', u'durable', u'eligible', u'enforceable', u'erodible', u'excludable', u'executable', u'facsimile', u'feasible', u'file', u'fissile', u'fissionable', u'floatable', u'fungible', u'handle', u'hole', u'hostile', u'identifiable', u'idle', u'impermissible', u'includible', u'indistinguishable', u'inedible', u'ineligible', u'insurable', u'intangible', u'interoperable', u'irrevocable', u'juvenile', u'lifecycle', u'little', u'marble', u'marketable', u'middle', u'mile', u'missile', u'mobile', u'module', u'motorcycle', u'multiple', u'navigable', u'nonactionable', u'nonallowable', u'nondeductible', u'nonforfeitable', u'nonidentifiable', u'noninsurable', u'nonmerchantable', u'nontaxable', u'nontrailerable', u'objectionable', u'parole', u'payable', u'people', u'perishable', u'permissible', u'pole', u'portable', u'possible', u'practicable', u'principle', u'profile', u'profitable', u'raffle', u'realizable', u'reasonable', u'receivable', u'rechargeable', u'recordable', u'recoverable', u'recyclable', u'recycle', u'reimbursable', u'reliable', u'removable', u'renewable', u'reportable', u'resale', u'reservable', u'responsible', u'retrievable', u'reusable', u'revocable', u'rifle', u'rule', u'sale', u'sample', u'scale', u'schedule', u'separable', u'settle', u'simple', u'single', u'sole', u'stable', u'staple', u'sterile', u'stockpile', u'straddle', u'style', u'submersible', u'suitable', u'susceptible', u'sustainable', u'table', u'tangible', u'taxable', u'terminable', u'textile', u'timetable', u'title', u'tradable', u'transferable', u'triable', u'triangle', u'turtle', u'unblockable', u'undesirable', u'unforeseeable', u'unpredictable', u'unreasonable', u'unserviceable', u'usable', u'valuable', u'variable', u'vehicle', u'verifiable', u'volatile', u'vulnerable', u'warrendale', u'while', u'whole', u'wholesale', u'withholdable']
+
+
+(u'ly', 131)
+[u'actually', u'adequately', u'administratively', u'adversely', u'annually', u'apparently', u'approximately', u'assembly', u'biasply', u'bodily', u'chronically', u'clearly', u'closely', u'collectively', u'commercially', u'commonly', u'congressionally', u'conventionally', u'corruptly', u'critically', u'culturally', u'currently', u'daily', u'democratically', u'differently', u'directly', u'duly', u'early', u'easily', u'ecologically', u'economically', u'educationally', u'effectively', u'elderly', u'entirely', u'environmentally', u'essentially', u'exclusively', u'expeditiously', u'expressly', u'extremely', u'facially', u'falsely', u'family', u'federally', u'finally', u'financially', u'formerly', u'fully', u'functionally', u'generally', u'genetically', u'geographically', u'heavily', u'highly', u'historically', u'immediately', u'importantly', u'independently', u'indirectly', u'individually', u'inherently', u'initially', u'internationally', u'involuntarily', u'irrevocably', u'july', u'knowingly', u'legally', u'locally', u'materially', u'medically', u'mentally', u'monthly', u'multifamily', u'nationally', u'naturally', u'newly', u'nonhighly', u'nonrecently', u'normally', u'officially', u'only', u'operationally', u'orderly', u'organically', u'partially', u'particularly', u'periodically', u'permanently', u'personally', u'postnatally', u'potentially', u'predominantly', u'preliminarily', u'prenatally', u'previously', u'primarily', u'properly', u'publicly', u'readily', u'reasonably', u'recently', u'regionally', u'regularly', u'respectively', u'responsibly', u'routinely', u'scientifically', u'secondarily', u'separately', u'severely', u'sexually', u'significantly', u'similarly', u'socially', u'specially', u'specifically', u'statutorily', u'substantially', u'successfully', u'supply', u'temporarily', u'totally', u'traditionally', u'tribally', u'unusually', u'vertically', u'weekly', u'wholly', u'widely']
+
+
+(u'ry', 125)
+[u'adversary', u'advisory', u'ambulatory', u'ancillary', u'artillery', u'auxiliary', u'battery', u'beneficiary', u'binary', u'biorefinery', u'budgetary', u'carry', u'category', u'chancery', u'compensatory', u'complementary', u'compulsory', u'country', u'dairy', u'delivery', u'dentistry', u'depositary', u'depository', u'dietary', u'directory', u'discovery', u'discretionary', u'discriminatory', u'documentary', u'domiciliary', u'dry', u'elementary', u'entry', u'estuary', u'evidentiary', u'exemplary', u'exploratory', u'extraordinary', u'february', u'ferry', u'fiduciary', u'fishery', u'forestry', u'funerary', u'gallery', u'generalsecretary', u'grocery', u'hatchery', u'history', u'imagery', u'incendiary', u'industry', u'injury', u'inquiry', u'interdisciplinary', u'intermediary', u'introductory', u'inventory', u'involuntary', u'ivory', u'january', u'jewelry', u'laboratory', u'library', u'literary', u'lottery', u'luxury', u'mandatory', u'mercury', u'migratory', u'military', u'monetary', u'multidisciplinary', u'necessary', u'nondiscriminatory', u'nonmilitary', u'nonpecuniary', u'nonproprietary', u'nursery', u'obligatory', u'optometry', u'ordinary', u'pantry', u'pecuniary', u'phytosanitary', u'postsecondary', u'poultry', u'precautionary', u'predatory', u'preliminary', u'primary', u'promissory', u'proprietary', u'pulmonary', u'recovery', u'reentry', u'refinery', u'registry', u'regulatory', u'repository', u'respiratory', u'retaliatory', u'salary', u'sanctuary', u'sanitary', u'satisfactory', u'secondary', u'secretary', u'signatory', u'stationary', u'statutory', u'subsidiary', u'summary', u'supervisory', u'supplementary', u'surgery', u'temporary', u'territory', u'tertiary', u'trajectory', u'treasury', u'unitary', u'very', u'veterinary', u'voluntary']
+
+
+(u'te', 121)
+[u'accurate', u'acute', u'adequate', u'advocate', u'affiliate', u'aggregate', u'allocate', u'alternate', u'anthracite', u'appellate', u'appropriate', u'approximate', u'associate', u'athlete', u'baccalaureate', u'candidate', u'cassette', u'certificate', u'cigarette', u'cigarettecigarette', u'climate', u'collegiate', u'commensurate', u'commute', u'complete', u'concrete', u'congregate', u'contribute', u'cooperate', u'coordinate', u'corporate', u'date', u'definite', u'delegate', u'demonstrate', u'designate', u'despite', u'discrete', u'disproportionate', u'dispute', u'distribute', u'donate', u'estate', u'estimate', u'expatriate', u'extortionate', u'generate', u'graduate', u'hydrate', u'illegitimate', u'immediate', u'indeterminate', u'initiate', u'inmate', u'institute', u'intercollegiate', u'intermediate', u'interstate', u'intimate', u'intimidate', u'intrastate', u'invertebrate', u'late', u'legitimate', u'lignite', u'magistrate', u'mandate', u'moderate', u'multistate', u'negotiate', u'nitrate', u'nitrite', u'nonprivate', u'note', u'obsolete', u'operate', u'opiate', u'parachute', u'participate', u'phthalate', u'plate', u'postgraduate', u'predicate', u'prerequisite', u'private', u'prostate', u'rate', u'rebate', u'regulate', u'rehabilitate', u'reinstate', u'remote', u'replicate', u'requisite', u'respite', u'route', u'satellite', u'senate', u'separate', u'site', u'state', u'statute', u'stipulate', u'subacute', u'subordinate', u'substitute', u'surrogate', u'syndicate', u'temperate', u'terminate', u'triplicate', u'truncate', u'ultimate', u'update', u'violate', u'vote', u'waste', u'website', u'white', u'willamette', u'write']
+
+
+(u'ce', 121)
+[u'accordance', u'adherence', u'advance', u'advice', u'aerospace', u'airspace', u'alliance', u'allowance', u'ambulance', u'appliance', u'artifice', u'assistance', u'assurance', u'attendance', u'balance', u'biosurveillance', u'choice', u'circumstance', u'clearance', u'commence', u'commerce', u'compliance', u'conference', u'conformance', u'continuance', u'convergence', u'conveyance', u'counterintelligence', u'cyberspace', u'dance', u'device', u'difference', u'discontinuance', u'distance', u'disturbance', u'divorce', u'embrace', u'encumbrance', u'enforce', u'entrance', u'equivalence', u'evidence', u'excellence', u'experience', u'face', u'finance', u'flexiplace', u'forbearance', u'force', u'furnace', u'governance', u'grace', u'grievance', u'guidance', u'hospice', u'ice', u'incidence', u'independence', u'insurance', u'intelligence', u'interface', u'interference', u'introduce', u'invoice', u'issuance', u'juice', u'justice', u'maintenance', u'malpractice', u'microfinance', u'negligence', u'noncompliance', u'notice', u'nuisance', u'occurrence', u'office', u'ordinance', u'peace', u'performance', u'place', u'police', u'practice', u'preclearance', u'preference', u'presence', u'price', u'prince', u'produce', u'province', u'race', u'reconnaissance', u'reduce', u'reference', u'reinsurance', u'reliance', u'remittance', u'reproduce', u'residence', u'resilience', u'resistance', u'resource', u'rice', u'science', u'sentence', u'service', u'severance', u'significance', u'since', u'source', u'space', u'subsistence', u'substance', u'surface', u'surveillance', u'tolerance', u'trace', u'triservice', u'vice', u'violence', u'workforce', u'workplace']
+
+
+(u'or', 114)
+[u'administrator', u'advisor', u'aggregator', u'ambassador', u'anchor', u'applicator', u'armor', u'auditor', u'behavior', u'cogenerator', u'collector', u'color', u'consignor', u'contractor', u'contributor', u'cooperator', u'coordinator', u'corridor', u'counselor', u'creditor', u'debtor', u'defibrillator', u'deflator', u'depositor', u'descriptor', u'detector', u'detonator', u'director', u'distributor', u'donor', u'educator', u'elevator', u'error', u'executor', u'exhibitor', u'facilitator', u'factor', u'favor', u'floor', u'for', u'franchisor', u'generalfor', u'generator', u'governor', u'guarantor', u'harbor', u'honor', u'incubator', u'indemnitor', u'indicator', u'indoor', u'innovator', u'inspector', u'instructor', u'integrator', u'interior', u'inventor', u'investigator', u'investor', u'junior', u'labor', u'lessor', u'lienor', u'liquor', u'locator', u'major', u'mayor', u'mentor', u'minor', u'misdemeanor', u'monitor', u'mortgagor', u'motor', u'navigator', u'negotiator', u'neighbor', u'nongrantor', u'noninnovator', u'nonmajor', u'obligor', u'operator', u'originator', u'outdoor', u'paraeducator', u'payor', u'poor', u'precursor', u'predecessor', u'prior', u'processor', u'promoflor', u'proprietor', u'prosecutor', u'raptor', u'reactor', u'reflector', u'refrigerator', u'regulator', u'requestor', u'sector', u'senior', u'sponsor', u'subcontractor', u'successor', u'superior', u'supervisor', u'survivor', u'transferor', u'ultracapacitor', u'vapor', u'vector', u'vendor', u'visitor', u'warrantor']
+
+
+(u'ty', 105)
+[u'ability', u'accessibility', u'activity', u'alienability', u'amenity', u'annuity', u'authority', u'availability', u'bioavailability', u'biosecurity', u'capability', u'capacity', u'casualty', u'charity', u'city', u'commodity', u'community', u'comparability', u'confidentiality', u'conformity', u'continuity', u'county', u'criminality', u'cruelty', u'cybersecurity', u'density', u'deputy', u'dirty', u'disability', u'disparity', u'divinity', u'duty', u'eligibility', u'employability', u'entity', u'equity', u'facility', u'faculty', u'fatality', u'feasibility', u'guaranty', u'guilty', u'identity', u'indemnity', u'instrumentality', u'integrity', u'intensity', u'intercity', u'interoperability', u'liability', u'liquidity', u'locality', u'loyalty', u'majority', u'maternity', u'maturity', u'minority', u'mortality', u'municipality', u'nationality', u'navigability', u'necessity', u'noncommunity', u'nonequity', u'nonparty', u'nonsecurity', u'nonutility', u'opportunity', u'parity', u'party', u'paternity', u'penalty', u'personalty', u'portability', u'poverty', u'priority', u'probability', u'productivity', u'property', u'publicity', u'quality', u'quantity', u'reliability', u'responsibility', u'retroreflectivity', u'royalty', u'safety', u'security', u'seniority', u'severity', u'society', u'specialty', u'stability', u'surety', u'susceptibility', u'sustainability', u'thrifty', u'treaty', u'university', u'utility', u'variety', u'velocity', u'vicinity', u'vulnerability', u'warranty']
+
+
+(u'ic', 96)
+[u'academic', u'alcoholic', u'anabolic', u'antarctic', u'antibiotic', u'aortic', u'aquatic', u'arctic', u'athletic', u'atlantic', u'atomic', u'audiologic', u'automatic', u'basic', u'biometric', u'carcinogenic', u'catastrophic', u'cellulosic', u'chronic', u'civic', u'clinic', u'cosmetic', u'democratic', u'diagnostic', u'diplomatic', u'domestic', u'dynamic', u'economic', u'electric', u'electromagnetic', u'electronic', u'epidemic', u'ethnic', u'exotic', u'fabric', u'generic', u'genetic', u'geodetic', u'geographic', u'geologic', u'geomagnetic', u'graphic', u'hispanic', u'historic', u'hydric', u'hydroelectric', u'hydrographic', u'hydrokinetic', u'hydrologic', u'hydrophytic', u'juristic', u'lignocellulosic', u'logistic', u'magnetic', u'metric', u'narcotic', u'neoplastic', u'nonbasic', u'nondemocratic', u'noneconomic', u'nonperiodic', u'nonpublic', u'numismatic', u'olympic', u'organic', u'osteopathic', u'pacific', u'pandemic', u'paralympic', u'pediatric', u'pelvic', u'periodic', u'philanthropic', u'photovoltaic', u'plastic', u'podiatric', u'prosthetic', u'psychiatric', u'psychotropic', u'public', u'radiologic', u'republic', u'scenic', u'scientific', u'semiautomatic', u'specific', u'strategic', u'synthetic', u'systemic', u'therapeutic', u'titanic', u'toxic', u'traffic', u'transgenic', u'transuranic', u'traumatic']
+
+
+(u'ts', 95)
+[u'accepts', u'accounts', u'acts', u'adjustments', u'adolescents', u'adults', u'agents', u'agreements', u'airports', u'amendments', u'amounts', u'appointments', u'arrangements', u'arts', u'aspects', u'assessments', u'assets', u'benefits', u'bequests', u'bets', u'byproducts', u'collects', u'components', u'constituents', u'contents', u'contracts', u'costs', u'courts', u'crafts', u'credits', u'departments', u'dependents', u'deposits', u'disbursements', u'disclosurerequirements', u'documents', u'effects', u'efforts', u'elements', u'enplanements', u'fingerprints', u'formats', u'fruits', u'gifts', u'governments', u'grants', u'imports', u'improvements', u'infants', u'instruments', u'interests', u'investments', u'its', u'limits', u'markets', u'motorsports', u'nutrients', u'overpayments', u'parents', u'parts', u'payments', u'peanuts', u'permits', u'plants', u'points', u'pollutants', u'presidents', u'products', u'profits', u'projects', u'receipts', u'regents', u'reimbursements', u'rents', u'reports', u'requests', u'requirements', u'requirementsrequirements', u'restraints', u'rights', u'roots', u'scouts', u'segments', u'spirits', u'sports', u'students', u'subcontracts', u'subjects', u'supports', u'tests', u'transports', u'trusts', u'underpayments', u'units', u'watts']
+
+
+(u've', 95)
+[u'above', u'active', u'adaptive', u'additive', u'adjudicative', u'administrative', u'affirmative', u'aggressive', u'alternative', u'approve', u'archive', u'assistive', u'automotive', u'believe', u'cave', u'collaborative', u'collective', u'commemorative', u'competitive', u'comprehensive', u'conserve', u'constructive', u'consultative', u'cooperative', u'corrective', u'creative', u'deceptive', u'defensive', u'derivative', u'destructive', u'directive', u'distributive', u'drive', u'effective', u'elective', u'excessive', u'exclusive', u'executive', u'explosive', u'fugitive', u'grave', u'have', u'inactive', u'incentive', u'initiative', u'innovative', u'intensive', u'interactive', u'interpretive', u'intrusive', u'invasive', u'investigative', u'leave', u'legislative', u'move', u'native', u'negative', u'nonconsumptive', u'nonelective', u'objective', u'obtrusive', u'oppressive', u'passive', u'positive', u'precompetitive', u'preproductive', u'preserve', u'presumptive', u'preventive', u'prospective', u'protective', u'punitive', u'qualitative', u'radioactive', u'receive', u'regenerative', u'rehabilitative', u'relative', u'remove', u'repetitive', u'representative', u'reproductive', u'reserve', u'respective', u'responsive', u'restorative', u'restrictive', u'retroactive', u'sensitive', u'substantive', u'supportive', u'tentative', u'valve', u'vegetative', u'vfpserve']
+
+
+(u're', 92)
+[u'acquire', u'aftercare', u'agriculture', u'aquaculture', u'architecture', u'are', u'atmosphere', u'before', u'bore', u'capture', u'care', u'closure', u'compare', u'core', u'countermeasure', u'culture', u'cure', u'daycare', u'debenture', u'disclosure', u'divestiture', u'elsewhere', u'encore', u'ensure', u'entire', u'expenditure', u'exposure', u'failure', u'feature', u'fire', u'fixture', u'foreclosure', u'forfeiture', u'future', u'hardware', u'hemisphere', u'indenture', u'infrastructure', u'insure', u'interfere', u'lakeshore', u'legislature', u'literature', u'luminaire', u'manufacture', u'mature', u'measure', u'medicare', u'mixture', u'moisture', u'more', u'nature', u'nondisclosure', u'offshore', u'onshore', u'picture', u'portraiture', u'postclosure', u'prefire', u'procedure', u'procure', u'pure', u'rare', u'recapture', u'require', u'restructure', u'sculpture', u'secure', u'severe', u'share', u'shore', u'signature', u'software', u'sore', u'spare', u'square', u'store', u'structure', u'temperature', u'tenure', u'there', u'timeshare', u'tire', u'torchiere', u'torture', u'venture', u'warfare', u'welfare', u'were', u'where', u'wildfire', u'wire']
+
+
+(u'ns', 91)
+[u'accommodations', u'accreditations', u'actions', u'adoptions', u'americans', u'applications', u'appropriations', u'assigns', u'assumptions', u'authorizations', u'certifications', u'childrens', u'citizens', u'civilians', u'commissions', u'communications', u'concerns', u'concessions', u'conditions', u'contributions', u'conventions', u'corporations', u'decisions', u'deductions', u'designs', u'emissions', u'environs', u'evaluations', u'exceptions', u'exclusions', u'exemptions', u'explosions', u'extensions', u'fractions', u'functions', u'gains', u'gallons', u'grains', u'greens', u'indians', u'institutions', u'investigations', u'koreans', u'lens', u'limitations', u'loans', u'means', u'missions', u'munitions', u'nations', u'newborns', u'obligations', u'oceans', u'operations', u'options', u'organizations', u'participations', u'patterns', u'persons', u'physicians', u'plans', u'populations', u'portions', u'possessions', u'prisons', u'provisions', u'rectifications', u'regulations', u'reinvestigations', u'relations', u'remains', u'reservations', u'restrictions', u'returns', u'sanctions', u'sections', u'solicitations', u'soybeans', u'specifications', u'stations', u'subsections', u'telecommunications', u'towns', u'toxins', u'transactions', u'unions', u'veterans', u'violations', u'weapons', u'womens', u'workmens']
+
+
+(u'rs', 84)
+[u'abusers', u'advisers', u'affairs', u'alzheimers', u'barriers', u'borrowers', u'bowaters', u'brokers', u'cashiers', u'centers', u'commissioners', u'consumers', u'containers', u'customers', u'dealers', u'debtors', u'detectors', u'directors', u'disorders', u'distributors', u'drivers', u'employers', u'examiners', u'factors', u'farmers', u'farmworkers', u'flavors', u'floors', u'flowers', u'generalcustomers', u'governors', u'headquarters', u'heaters', u'holders', u'homeowners', u'hours', u'identifiers', u'instructors', u'issuers', u'leaders', u'matters', u'members', u'minors', u'observers', u'offenders', u'offers', u'officers', u'operators', u'orders', u'owners', u'partners', u'policyholders', u'powers', u'predecessors', u'prisoners', u'processors', u'producers', u'providers', u'purchasers', u'quarters', u'raptors', u'refers', u'registers', u'repairs', u'sectors', u'settlors', u'shareholders', u'shippers', u'sitters', u'stakeholders', u'subchapters', u'successors', u'suppliers', u'survivors', u'tellers', u'toddlers', u'transferors', u'underwriters', u'users', u'visitors', u'wars', u'waters', u'workers', u'years']
+
+
+(u'an', 71)
+[u'activitiesan', u'afghanistan', u'african', u'airman', u'american', u'appalachian', u'applicabilityan', u'asian', u'ban', u'began', u'canadian', u'caribbean', u'chairman', u'civilian', u'clean', u'crewman', u'cuban', u'custodian', u'dean', u'dietitian', u'fan', u'fireman', u'fisherman', u'german', u'guardian', u'hawaiian', u'historian', u'human', u'humanitarian', u'indian', u'iran', u'iranian', u'korean', u'lean', u'librarian', u'lifespan', u'loan', u'mean', u'median', u'meridian', u'metropolitan', u'mexican', u'microloan', u'midshipman', u'nonmetropolitan', u'obstetrician', u'ocean', u'ombudsman', u'organ', u'orphan', u'pakistan', u'palestinian', u'partisan', u'pecan', u'pedestrian', u'persian', u'physician', u'plan', u'reagan', u'russian', u'scan', u'seaman', u'serviceman', u'soybean', u'technician', u'than', u'urban', u'veteran', u'veterinarian', u'warehouseman', u'woman']
+
+
+(u'st', 70)
+[u'against', u'agroterrorist', u'analyst', u'anesthetist', u'antitrust', u'archivist', u'artist', u'assist', u'audiologist', u'august', u'ballast', u'best', u'breast', u'broadcast', u'coast', u'communist', u'conservationist', u'contest', u'cost', u'crest', u'divest', u'dust', u'earliest', u'east', u'exist', u'first', u'forecast', u'forest', u'greatest', u'guest', u'harvest', u'highest', u'host', u'interest', u'invest', u'just', u'last', u'latest', u'least', u'list', u'lobbyist', u'lowest', u'manifest', u'most', u'motorcyclist', u'multicast', u'must', u'northeast', u'northwest', u'orchardist', u'pest', u'pharmacist', u'post', u'protest', u'provost', u'psychologist', u'radiologist', u'request', u'reservist', u'scientist', u'specialist', u'telecast', u'terrorist', u'test', u'therapist', u'tourist', u'trust', u'vest', u'west', u'worst']
+
+
+(u'ge', 69)
+[u'acreage', u'advantage', u'age', u'arbitrage', u'average', u'badge', u'barge', u'beverage', u'bondage', u'bridge', u'brokerage', u'carriage', u'challenge', u'change', u'charge', u'college', u'cordage', u'coverage', u'damage', u'discharge', u'dosage', u'drainage', u'edge', u'espionage', u'exchange', u'foliage', u'fringe', u'garbage', u'gorge', u'hedge', u'heritage', u'hostage', u'interchange', u'judge', u'knowledge', u'language', u'large', u'leverage', u'manage', u'marriage', u'message', u'mileage', u'mortgage', u'orange', u'package', u'page', u'patronage', u'percentage', u'privilege', u'protege', u'range', u'refuge', u'repackage', u'ridge', u'sabotage', u'salvage', u'sewage', u'shortage', u'sludge', u'storage', u'surcharge', u'surge', u'tonnage', u'trackage', u'village', u'voltage', u'voyage', u'wage', u'wattage']
+
+
+(u'ne', 64)
+[u'autoimmune', u'baseline', u'bone', u'brine', u'canine', u'carline', u'cetane', u'coastline', u'deadline', u'decline', u'determine', u'engine', u'estuarine', u'fine', u'foodborne', u'forgone', u'frontline', u'gasoline', u'guideline', u'hubzone', u'humane', u'hurricane', u'immune', u'inhumane', u'june', u'lane', u'lifeline', u'line', u'machine', u'magazine', u'margarine', u'marine', u'medicine', u'methamphetamine', u'methane', u'microturbine', u'milestone', u'mine', u'nicotine', u'nonmethane', u'obscene', u'oceanborne', u'octane', u'oleomargarine', u'one', u'online', u'ozone', u'philippine', u'phone', u'pipeline', u'porcine', u'prone', u'propane', u'quarantine', u'routine', u'shoreline', u'swine', u'telemedicine', u'telephone', u'turbine', u'turpentine', u'vaccine', u'wine', u'zone']
+
+
+(u'se', 61)
+[u'abuse', u'adverse', u'base', u'because', u'case', u'cause', u'chinese', u'clause', u'clearinghouse', u'coastwise', u'course', u'cruise', u'database', u'defense', u'devise', u'disclose', u'disease', u'dispense', u'enterprise', u'exercise', u'expense', u'expertise', u'false', u'foreclose', u'franchise', u'greenhouse', u'house', u'impose', u'increase', u'lease', u'license', u'lighthouse', u'merchandise', u'microenterprise', u'misuse', u'multipurpose', u'noise', u'nonadverse', u'nonpurpose', u'nonrecourse', u'nurse', u'offense', u'otherwise', u'phase', u'phrase', u'prerinse', u'pulse', u'purchase', u'purpose', u'recourse', u'release', u'repurchase', u'response', u'reuse', u'reverse', u'sense', u'spouse', u'those', u'use', u'warehouse', u'whose']
+
+
+(u'nd', 54)
+[u'and', u'background', u'band', u'blend', u'blind', u'bond', u'brand', u'broadband', u'campground', u'command', u'contraband', u'cropland', u'demand', u'diamond', u'dividend', u'end', u'expand', u'extend', u'farmland', u'found', u'fund', u'grand', u'ground', u'homeland', u'husband', u'inbound', u'inland', u'island', u'kind', u'land', u'legend', u'mainland', u'narrowband', u'playground', u'rangeland', u'recommend', u'redband', u'refund', u'respond', u'round', u'second', u'sound', u'stand', u'stipend', u'superfund', u'suspend', u'ultrasound', u'underground', u'unsound', u'upland', u'wetland', u'wildland', u'wind', u'woodland']
+
+
+(u'ss', 46)
+[u'access', u'address', u'agribusiness', u'assess', u'awareness', u'bass', u'biomass', u'blindness', u'business', u'childless', u'class', u'congress', u'crashworthiness', u'distress', u'effectiveness', u'encompass', u'excess', u'express', u'forgiveness', u'grass', u'gross', u'harmless', u'harness', u'hass', u'homeless', u'homelessness', u'illness', u'indebtedness', u'loss', u'mass', u'nonbusiness', u'noncarcass', u'pass', u'possess', u'preparedness', u'process', u'progress', u'readiness', u'regardless', u'sickness', u'smokeless', u'success', u'trespass', u'unless', u'wilderness', u'wireless']
+
+
+(u'us', 39)
+[u'anadromous', u'bituminous', u'bonus', u'bus', u'campus', u'census', u'citrus', u'consensus', u'contiguous', u'continuous', u'corpus', u'dangerous', u'fungus', u'gaseous', u'gratuitous', u'grievous', u'hazardous', u'homogeneous', u'infectious', u'instantaneous', u'intravenous', u'malicious', u'miscellaneous', u'motorbus', u'noncampus', u'noncontiguous', u'nonindigenous', u'noxious', u'plus', u'previous', u'prospectus', u'religious', u'schoolbus', u'serious', u'status', u'surplus', u'tortious', u'various', u'virus']
+
+
+(u'ar', 39)
+[u'bear', u'biosimilar', u'boar', u'calendar', u'car', u'cardiovascular', u'cellar', u'cellular', u'cigar', u'clear', u'collar', u'consular', u'debar', u'dollar', u'ear', u'forbear', u'gear', u'insular', u'modular', u'near', u'nuclear', u'outyear', u'par', u'particular', u'polar', u'registrar', u'regular', u'scholar', u'similar', u'singular', u'smear', u'solar', u'star', u'sugar', u'tar', u'vehicular', u'war', u'wear', u'year']
+
+
+(u'ee', 38)
+[u'agree', u'allottee', u'appointee', u'arrestee', u'committee', u'consignee', u'contestee', u'decree', u'degree', u'designee', u'detailee', u'detainee', u'donee', u'employee', u'enrollee', u'fee', u'franchisee', u'free', u'garnishee', u'grantee', u'guarantee', u'lee', u'lessee', u'levee', u'licensee', u'milwaukee', u'mortgagee', u'nonemployee', u'obligee', u'payee', u'permittee', u'retiree', u'subcommittee', u'tennessee', u'three', u'transferee', u'tree', u'trustee']
+
+
+(u'ct', 38)
+[u'act', u'addict', u'adjunct', u'affect', u'architect', u'byproduct', u'collect', u'compact', u'conduct', u'conflict', u'construct', u'contact', u'contract', u'correct', u'defect', u'direct', u'district', u'duct', u'effect', u'fact', u'impact', u'incorrect', u'indirect', u'insect', u'inspect', u'interdict', u'misconduct', u'neglect', u'object', u'product', u'project', u'reject', u'respect', u'select', u'subcontract', u'subject', u'suspect', u'tract']
+
+
+(u'cy', 35)
+[u'accountancy', u'advocacy', u'agency', u'bankruptcy', u'competency', u'concurrency', u'contingency', u'counterinsurgency', u'currency', u'deficiency', u'delinquency', u'dependency', u'efficacy', u'efficiency', u'emergency', u'expectancy', u'frequency', u'illiteracy', u'immunodeficiency', u'insolvency', u'insufficiency', u'interagency', u'literacy', u'nonemergency', u'occupancy', u'pharmacy', u'piracy', u'policy', u'pregnancy', u'privacy', u'proficiency', u'radiofrequency', u'residency', u'solvency', u'tenancy']
+
+
+(u'de', 34)
+[u'aide', u'arcade', u'areawide', u'aside', u'cliffside', u'code', u'crude', u'diode', u'dioxide', u'episode', u'evade', u'exclude', u'fide', u'grade', u'grande', u'guide', u'halide', u'include', u'lakewide', u'lode', u'made', u'manmade', u'mode', u'nationwide', u'nematode', u'outside', u'pesticide', u'provide', u'servitude', u'side', u'statewide', u'switchblade', u'trade', u'worldwide']
+
+
+(u'in', 34)
+[u'ascertain', u'basin', u'brain', u'cabin', u'chain', u'champlain', u'chaplain', u'dolphin', u'domain', u'drain', u'enforcementin', u'floodplain', u'gain', u'globulin', u'grain', u'herein', u'kin', u'main', u'maintain', u'margin', u'mountain', u'nonmain', u'obtain', u'organotin', u'origin', u'pain', u'plain', u'protein', u'rosin', u'saccharin', u'toxin', u'train', u'virgin', u'within']
+
+
+(u'ds', 32)
+[u'aids', u'awards', u'bids', u'birds', u'bonds', u'childs', u'discards', u'dividends', u'foods', u'funds', u'goods', u'grounds', u'holds', u'islands', u'lands', u'methods', u'needs', u'phonorecords', u'proceeds', u'records', u'regards', u'rewards', u'roads', u'safeguards', u'sands', u'seeds', u'solids', u'standards', u'stewards', u'wetlands', u'woods', u'words']
+
+
+(u'en', 32)
+[u'alien', u'allergen', u'been', u'between', u'burden', u'children', u'citizen', u'eleven', u'frozen', u'given', u'golden', u'green', u'hen', u'kitchen', u'lien', u'lumen', u'nextgen', u'nitrogen', u'open', u'pathogen', u'pen', u'proven', u'raven', u'sixteen', u'sunscreen', u'taken', u'then', u'unforeseen', u'when', u'women', u'woven', u'written']
+
+
+(u'll', 31)
+[u'all', u'ball', u'bell', u'bill', u'bull', u'call', u'cell', u'coverdell', u'dwell', u'enroll', u'football', u'full', u'ill', u'landfill', u'lowell', u'marshall', u'mill', u'payroll', u'pell', u'recall', u'sell', u'shall', u'shell', u'shortfall', u'skill', u'small', u'spell', u'spill', u'toll', u'well', u'will']
+
+
+(u'et', 31)
+[u'asset', u'basket', u'bet', u'blanket', u'budget', u'cadet', u'closet', u'faucet', u'feet', u'fleet', u'internet', u'jacket', u'jet', u'magnet', u'market', u'met', u'net', u'nonmarket', u'offset', u'planet', u'premarket', u'pullet', u'reset', u'secret', u'set', u'sheet', u'soviet', u'street', u'target', u'ticket', u'upset']
+
+
+(u'it', 31)
+[u'audit', u'benefit', u'commit', u'conduit', u'counterfeit', u'credit', u'debit', u'deficit', u'deposit', u'exhibit', u'exit', u'explicit', u'fit', u'illicit', u'implicit', u'kit', u'kiwifruit', u'knit', u'limit', u'merit', u'noncredit', u'nonprofit', u'permit', u'profit', u'prohibit', u'refit', u'retrofit', u'transit', u'transmit', u'unit', u'visit']
+
+
+(u'rd', 29)
+[u'award', u'bird', u'board', u'card', u'cord', u'dashboard', u'floraboard', u'forward', u'freeboard', u'graveyard', u'guard', u'hard', u'hardboard', u'hazard', u'herd', u'junkyard', u'multihazard', u'orchard', u'particleboard', u'phonorecord', u'record', u'safeguard', u'shipyard', u'standard', u'stockyard', u'substandard', u'third', u'word', u'yard']
+
+
+(u'me', 28)
+[u'assume', u'become', u'burdensome', u'crime', u'extreme', u'game', u'home', u'income', u'legume', u'lifetime', u'lime', u'maritime', u'name', u'nongame', u'outcome', u'overtime', u'plume', u'prime', u'regime', u'rome', u'same', u'scheme', u'subprime', u'supreme', u'syndrome', u'time', u'volume', u'wholesome']
+
+
+(u'um', 27)
+[u'ammonium', u'beryllium', u'compendium', u'condominium', u'consortium', u'continuum', u'curriculum', u'gum', u'helium', u'maximum', u'medium', u'memorandum', u'minimum', u'moratorium', u'museum', u'opium', u'optimum', u'petroleum', u'postpartum', u'premium', u'quorum', u'referendum', u'slum', u'spectrum', u'thorium', u'uranium', u'vacuum']
+
+
+(u'ls', 25)
+[u'animals', u'appeals', u'approvals', u'biofuels', u'biomaterials', u'biphenyls', u'channels', u'chemicals', u'controls', u'councils', u'fuels', u'individuals', u'levels', u'mammals', u'materials', u'minerals', u'nationals', u'officials', u'professionals', u'residuals', u'schools', u'skills', u'spoils', u'trails', u'vessels']
+
+
+(u'rt', 25)
+[u'airport', u'alert', u'art', u'cart', u'cohort', u'court', u'covert', u'divert', u'escort', u'expert', u'export', u'import', u'inert', u'part', u'port', u'report', u'resort', u'seaport', u'short', u'smart', u'sport', u'start', u'subpart', u'support', u'transport']
+
+
+(u'el', 23)
+[u'apparel', u'barrel', u'biodiesel', u'biofuel', u'channel', u'counsel', u'diesel', u'fuel', u'hotel', u'israel', u'label', u'level', u'model', u'multichannel', u'panel', u'parallel', u'parcel', u'parimutuel', u'personnel', u'steel', u'travel', u'tunnel', u'vessel']
+
+
+(u'ip', 23)
+[u'apprenticeship', u'entrepreneurship', u'fellowship', u'guardianship', u'hardship', u'homeownership', u'internship', u'leadership', u'membership', u'nonpartnership', u'ownership', u'partnership', u'plantship', u'relationship', u'scholarship', u'ship', u'skip', u'sponsorship', u'stewardship', u'survivorship', u'township', u'trusteeship', u'voip']
+
+
+(u'ay', 23)
+[u'airway', u'bay', u'day', u'delay', u'display', u'driveaway', u'floodway', u'flyway', u'guideway', u'highway', u'holiday', u'may', u'outlay', u'overstay', u'pathway', u'pay', u'relay', u'roadway', u'runaway', u'spray', u'uruguay', u'walkaway', u'waterway']
+
+
+(u'th', 22)
+[u'beneath', u'birth', u'childbirth', u'commonwealth', u'death', u'depth', u'earth', u'faith', u'forth', u'growth', u'health', u'length', u'month', u'north', u'roth', u'south', u'strength', u'telehealth', u'width', u'with', u'worth', u'youth']
+
+
+(u'ck', 22)
+[u'attack', u'black', u'block', u'check', u'deck', u'dock', u'fallback', u'feedstock', u'kickback', u'knock', u'lack', u'livestock', u'lock', u'paperback', u'payback', u'rock', u'shipwreck', u'sick', u'sidetrack', u'stock', u'track', u'truck']
+
+
+(u'ld', 21)
+[u'battlefield', u'brightfield', u'brownfield', u'child', u'field', u'grandchild', u'held', u'hold', u'household', u'leasehold', u'mold', u'old', u'ronald', u'should', u'sold', u'threshold', u'wild', u'world', u'would', u'yield', u'youthbuild']
+
+
+(u'ch', 21)
+[u'approach', u'batch', u'branch', u'breach', u'catch', u'church', u'dispatch', u'each', u'launch', u'lunch', u'march', u'match', u'outreach', u'research', u'search', u'sematech', u'speech', u'such', u'tech', u'watch', u'which']
+
+
+(u'at', 21)
+[u'boat', u'cat', u'combat', u'flat', u'format', u'great', u'habitat', u'hazmat', u'heat', u'houseboat', u'inmarsat', u'landsat', u'meat', u'plat', u'repeat', u'seat', u'secretariat', u'that', u'threat', u'what', u'wheat']
+
+
+(u'id', 21)
+[u'aid', u'asteroid', u'bid', u'fluid', u'geofluid', u'grid', u'hybrid', u'illiquid', u'liquid', u'madrid', u'medicaid', u'microgrid', u'opioid', u'paid', u'prepaid', u'rapid', u'said', u'solid', u'steroid', u'unpaid', u'valid']
+
+
+(u'ad', 19)
+[u'abroad', u'bad', u'caseload', u'had', u'head', u'homestead', u'lead', u'load', u'nonroad', u'overhead', u'overload', u'payload', u'peakload', u'railroad', u'road', u'showerhead', u'spread', u'squad', u'steelhead']
+
+
+(u'ut', 19)
+[u'about', u'aleut', u'astronaut', u'blackout', u'blowout', u'but', u'cut', u'dropout', u'farmout', u'halibut', u'input', u'out', u'output', u'payout', u'peanut', u'put', u'takeout', u'trout', u'without']
+
+
+(u'gs', 18)
+[u'buildings', u'drugs', u'dwellings', u'earnings', u'eggs', u'financings', u'findings', u'hearings', u'holdings', u'hollings', u'killings', u'proceedings', u'recordings', u'savings', u'screenings', u'tailings', u'winnings', u'workings']
+
+
+(u'ms', 18)
+[u'arms', u'claims', u'condominiums', u'customs', u'films', u'firearms', u'forms', u'items', u'museums', u'mushrooms', u'plums', u'premiums', u'problems', u'programs', u'rooms', u'systems', u'terms', u'victims']
+
+
+(u'ue', 17)
+[u'analogue', u'antique', u'blue', u'continue', u'due', u'hague', u'issue', u'marque', u'overdue', u'rescue', u'residue', u'revenue', u'technique', u'tissue', u'undue', u'unique', u'value']
+
+
+(u'il', 17)
+[u'april', u'civil', u'conrail', u'council', u'detail', u'fail', u'frail', u'greenmail', u'jail', u'mail', u'oil', u'peril', u'pupil', u'rail', u'retail', u'soil', u'trail']
+
+
+(u'rn', 16)
+[u'barn', u'burn', u'concern', u'corn', u'eastern', u'fern', u'intern', u'modern', u'northern', u'northwestern', u'pattern', u'popcorn', u'return', u'southern', u'western', u'yarn']
+
+
+(u'od', 16)
+[u'blood', u'childhood', u'fatherhood', u'flood', u'food', u'god', u'good', u'hardwood', u'livelihood', u'method', u'neighborhood', u'period', u'plywood', u'sod', u'statehood', u'wood']
+
+
+(u'am', 15)
+[u'adam', u'dam', u'downstream', u'exam', u'guam', u'lanham', u'mammogram', u'program', u'seam', u'steam', u'stream', u'subprogram', u'team', u'vietnam', u'william']
+
+
+(u'ol', 14)
+[u'alcohol', u'capitol', u'carpool', u'control', u'ethanol', u'methanol', u'patrol', u'pool', u'preschool', u'protocol', u'school', u'tool', u'vanpool', u'wool']
+
+
+(u'pe', 14)
+[u'ape', u'cape', u'colorstripe', u'escape', u'grape', u'isotope', u'landscape', u'pipe', u'rape', u'scope', u'shape', u'tape', u'type', u'videotape']
+
+
+(u'is', 13)
+[u'analysis', u'basis', u'crisis', u'debris', u'diagnosis', u'dialysis', u'emphasis', u'his', u'minimis', u'osteoporosis', u'pneumoconiosis', u'this', u'tuberculosis']
+
+
+(u'rm', 13)
+[u'alarm', u'farm', u'firearm', u'firm', u'form', u'harm', u'perform', u'platform', u'storm', u'term', u'uniform', u'warm', u'windstorm']
+
+
+(u'cs', 13)
+[u'aeronautics', u'characteristics', u'civics', u'ethics', u'eugenics', u'logistics', u'mathematics', u'mechanics', u'narcotics', u'orthotics', u'prosthetics', u'statistics', u'traffics']
+
+
+(u'ap', 13)
+[u'basemap', u'boobytrap', u'cap', u'handicap', u'leap', u'map', u'medigap', u'mishap', u'overlap', u'pap', u'scrap', u'swap', u'trap']
+
+
+(u'ey', 12)
+[u'attorney', u'convey', u'honey', u'key', u'kidney', u'kimberley', u'money', u'requiredattorney', u'smokey', u'survey', u'they', u'valley']
+
+
+(u'rk', 12)
+[u'benchmark', u'clerk', u'dark', u'framework', u'mark', u'network', u'park', u'pork', u'telework', u'trademark', u'work', u'york']
+
+
+(u'ow', 12)
+[u'allow', u'barrow', u'below', u'escrow', u'fellow', u'flow', u'follow', u'know', u'low', u'marrow', u'sow', u'widow']
+
+
+(u'lt', 10)
+[u'adult', u'assault', u'belt', u'default', u'difficult', u'gilt', u'malt', u'rebuilt', u'result', u'shelterbelt']
+
+
+(u'ht', 10)
+[u'copyright', u'drought', u'flight', u'freight', u'light', u'oversight', u'right', u'tight', u'weight', u'yacht']
+
+
+(u'up', 10)
+[u'cleanup', u'group', u'intragroup', u'lockup', u'markup', u'rollup', u'soup', u'startup', u'subgroup', u'workgroup']
+
+
+(u'ur', 10)
+[u'amateur', u'contour', u'entrepreneur', u'four', u'fur', u'hour', u'microentrepreneur', u'sulfur', u'tour', u'your']
+
+
+(u'ke', 10)
+[u'chesapeake', u'lake', u'like', u'make', u'revoke', u'smoke', u'snake', u'strike', u'take', u'undertake']
+
+
+(u'ks', 10)
+[u'attacks', u'banks', u'benchmarks', u'blacks', u'marks', u'risks', u'stocks', u'tasks', u'tracks', u'works']
+
+
+(u'ia', 9)
+[u'cafeteria', u'california', u'columbia', u'consortia', u'criteria', u'hypoxia', u'inertia', u'media', u'moratoria']
+
+
+(u'ft', 9)
+[u'aircraft', u'craft', u'draft', u'drift', u'gift', u'sealift', u'shift', u'theft', u'thrift']
+
+
+(u'em', 9)
+[u'dem', u'diem', u'ecosystem', u'item', u'problem', u'speleothem', u'subsystem', u'system', u'valorem']
+
+
+(u'ps', 9)
+[u'americorps', u'corps', u'crops', u'directorships', u'groups', u'guardianships', u'relationships', u'subgroups', u'swaps']
+
+
+(u'pt', 9)
+[u'accept', u'attempt', u'encrypt', u'except', u'exempt', u'intercept', u'nonexempt', u'preempt', u'receipt']
+
+
+(u'ul', 9)
+[u'backhaul', u'harmful', u'lawful', u'meaningful', u'peaceful', u'successful', u'unlawful', u'useful', u'willful']
+
+
+(u'ir', 9)
+[u'air', u'chair', u'fair', u'heir', u'repair', u'reservoir', u'their', u'unfair', u'wheelchair']
+
+
+(u'nk', 9)
+[u'bank', u'blank', u'frank', u'interbank', u'junk', u'nonbank', u'nontank', u'rank', u'tank']
+
+
+(u'na', 9)
+[u'antenna', u'bona', u'china', u'katrina', u'kupuna', u'mariana', u'marihuana', u'subpoena', u'tuna']
+
+
+(u'gy', 8)
+[u'audiology', u'bioenergy', u'energy', u'gerontology', u'nanotechnology', u'psychology', u'strategy', u'technology']
+
+
+(u'dy', 8)
+[u'body', u'custody', u'needy', u'ready', u'remedy', u'study', u'subsidy', u'underbody']
+
+
+(u'ma', 8)
+[u'diploma', u'drama', u'glaucoma', u'malama', u'oklahoma', u'panama', u'trauma', u'wilma']
+
+
+(u'om', 8)
+[u'bloom', u'classroom', u'custom', u'freedom', u'from', u'room', u'stateroom', u'symptom']
+
+
+(u'as', 8)
+[u'americas', u'areas', u'gas', u'has', u'marianas', u'overseas', u'seas', u'was']
+
+
+(u'ze', 8)
+[u'authorize', u'demilitarize', u'minimize', u'pasteurize', u'prize', u'size', u'stabilize', u'weaponize']
+
+
+(u'sh', 8)
+[u'billfish', u'cash', u'crush', u'english', u'establish', u'fish', u'noncash', u'reestablish']
+
+
+(u'ra', 7)
+[u'candelabra', u'chimera', u'era', u'extra', u'maquiladora', u'piedra', u'ultra']
+
+
+(u'ot', 7)
+[u'ballot', u'hot', u'lot', u'not', u'pilot', u'riot', u'slot']
+
+
+(u'op', 7)
+[u'chop', u'crop', u'develop', u'outcrop', u'shop', u'stop', u'workshop']
+
+
+(u'ta', 7)
+[u'beta', u'capita', u'data', u'interlata', u'quota', u'rata', u'rita']
+
+
+(u'ny', 7)
+[u'alimony', u'any', u'company', u'felony', u'intracompany', u'penny', u'testimony']
+
+
+(u'fy', 7)
+[u'classify', u'diversify', u'identify', u'indemnify', u'modify', u'satisfy', u'verify']
+
+
+(u'fe', 7)
+[u'folklife', u'knife', u'life', u'safe', u'unsafe', u'wife', u'wildlife']
+
+
+(u'ew', 6)
+[u'crew', u'knew', u'new', u'renew', u'review', u'screw']
+
+
+(u'hy', 6)
+[u'healthy', u'mammography', u'photography', u'pornography', u'radiography', u'tomography']
+
+
+(u'mp', 6)
+[u'camp', u'dump', u'hemp', u'lamp', u'pump', u'stamp']
+
+
+(u'ff', 6)
+[u'layoff', u'off', u'plaintiff', u'snuff', u'staff', u'tariff']
+
+
+(u'gn', 5)
+[u'campaign', u'design', u'foreign', u'sign', u'sovereign']
+
+
+(u'ep', 5)
+[u'creep', u'deep', u'prep', u'sheep', u'upkeep']
+
+
+(u'un', 5)
+[u'gun', u'handgun', u'machinegun', u'noun', u'shotgun']
+
+
+(u'be', 5)
+[u'describe', u'prescribe', u'subscribe', u'tribe', u'tube']
+
+
+(u'my', 5)
+[u'academy', u'army', u'economy', u'enemy', u'sodomy']
+
+
+(u'la', 5)
+[u'canola', u'curricula', u'formula', u'ola', u'variola']
+
+
+(u'io', 5)
+[u'audio', u'portfolio', u'radio', u'ratio', u'rio']
+
+
+(u'sm', 5)
+[u'aneurysm', u'counterterrorism', u'organism', u'terrorism', u'tourism']
+
+
+(u'lf', 4)
+[u'behalf', u'gulf', u'self', u'shelf']
+
+
+(u'ys', 4)
+[u'companys', u'days', u'outlays', u'surveys']
+
+
+(u'ef', 4)
+[u'beef', u'chief', u'reef', u'relief']
+
+
+(u'ex', 4)
+[u'annex', u'complex', u'index', u'sex']
+
+
+(u'wn', 4)
+[u'brown', u'known', u'own', u'town']
+
+
+(u'og', 4)
+[u'analog', u'backlog', u'dog', u'hog']
+
+
+(u'ca', 4)
+[u'antarctica', u'japonica', u'replica', u'yucca']
+
+
+(u'ph', 4)
+[u'paragraph', u'polygraph', u'radiotelegraph', u'subparagraph']
+
+
+(u'hs', 4)
+[u'paragraphs', u'photographs', u'subparagraphs', u'youths']
+
+
+(u'gh', 3)
+[u'high', u'rough', u'through']
+
+
+(u'to', 3)
+[u'auto', u'into', u'puerto']
+
+
+(u'sk', 3)
+[u'mask', u'risk', u'task']
+
+
+(u'ea', 3)
+[u'area', u'korea', u'sea']
+
+
+(u'wl', 3)
+[u'fowl', u'owl', u'waterfowl']
+
+
+(u'ws', 3)
+[u'knows', u'laws', u'reviews']
+
+
+(u'of', 3)
+[u'pribilof', u'proof', u'thereof']
+
+
+(u'py', 3)
+[u'copy', u'poppy', u'therapy']
+
+
+(u'sy', 3)
+[u'controversy', u'greasy', u'woodsy']
+
+
+(u'ub', 3)
+[u'club', u'hub', u'nonhub']
+
+
+(u'ak', 3)
+[u'amtrak', u'oak', u'outbreak']
+
+
+(u'im', 3)
+[u'claim', u'interim', u'victim']
+
+
+(u'aw', 3)
+[u'law', u'raw', u'straw']
+
+
+(u'vy', 3)
+[u'heavy', u'levy', u'navy']
+
+
+(u'lo', 2)
+[u'pueblo', u'solo']
+
+
+(u'do', 2)
+[u'avocado', u'colorado']
+
+
+(u'ye', 2)
+[u'eye', u'heye']
+
+
+(u'da', 2)
+[u'canada', u'memoranda']
+
+
+(u'ax', 2)
+[u'nontax', u'tax']
+
+
+(u'ek', 2)
+[u'creek', u'week']
+
+
+(u'ro', 2)
+[u'pro', u'zero']
+
+
+(u'by', 2)
+[u'baby', u'standby']
+
+
+(u'ok', 2)
+[u'book', u'textbook']
+
+
+(u'oy', 2)
+[u'employ', u'toy']
+
+
+(u'ox', 2)
+[u'nox', u'smallpox']
+
+
+(u'co', 2)
+[u'rico', u'tobacco']
+
+
+(u'lk', 2)
+[u'bulk', u'milk']
+
+
+(u'xt', 2)
+[u'context', u'next']
+
+
+(u'pa', 2)
+[u'papa', u'spa']
+
+
+(u'pi', 2)
+[u'hopi', u'mississippi']
+
+
+(u'po', 2)
+[u'repo', u'tempo']
+
+
+(u'he', 2)
+[u'apache', u'the']
+
+
+(u'ud', 2)
+[u'defraud', u'fraud']
+
+
+(u'ug', 2)
+[u'drug', u'plug']
+
+
+(u'ix', 2)
+[u'fix', u'transmix']
+
+
+(u'ac', 2)
+[u'cardiac', u'tarmac']
+
+
+(u'ag', 2)
+[u'flag', u'lag']
+
+
+(u'ii', 2)
+[u'hawaii', u'iii']
+
+
+(u'au', 2)
+[u'bureau', u'palau']
+
+
+(u'sa', 2)
+[u'lisa', u'visa']
+
+
+(u'gg', 1)
+[u'egg']
+
+
+(u'gd', 1)
+[u'mgd']
+
+
+(u'go', 1)
+[u'cargo']
+
+
+(u'lb', 1)
+[u'bulb']
+
+
+(u'tu', 1)
+[u'btu']
+
+
+(u'yl', 1)
+[u'butyl']
+
+
+(u'yo', 1)
+[u'embryo']
+
+
+(u'uz', 1)
+[u'luz']
+
+
+(u'eo', 1)
+[u'video']
+
+
+(u'ei', 1)
+[u'nei']
+
+
+(u'za', 1)
+[u'plaza']
+
+
+(u'ru', 1)
+[u'passthru']
+
+
+(u'rb', 1)
+[u'verb']
+
+
+(u'wd', 1)
+[u'lewd']
+
+
+(u'ba', 1)
+[u'cuba']
+
+
+(u'wo', 1)
+[u'two']
+
+
+(u'bt', 1)
+[u'debt']
+
+
+(u'jo', 1)
+[u'navajo']
+
+
+(u'bs', 1)
+[u'labs']
+
+
+(u'oe', 1)
+[u'prudhoe']
+
+
+(u'ob', 1)
+[u'job']
+
+
+(u'oa', 1)
+[u'samoa']
+
+
+(u'ov', 1)
+[u'litvinov']
+
+
+(u'os', 1)
+[u'asbestos']
+
+
+(u'va', 1)
+[u'geneva']
+
+
+(u'cf', 1)
+[u'mcf']
+
+
+(u'pl', 1)
+[u'upl']
+
+
+(u'hz', 1)
+[u'mhz']
+
+
+(u'hi', 1)
+[u'lokahi']
+
+
+(u'ho', 1)
+[u'who']
+
+
+(u'vo', 1)
+[u'novo']
+
+
+(u'uy', 1)
+[u'buy']
+
+
+(u'mb', 1)
+[u'lamb']
+
+
+(u'uq', 1)
+[u'nanuuq']
+
+
+(u'tt', 1)
+[u'boycott']
+
+
+(u'ui', 1)
+[u'hui']
+
+
+(u'ua', 1)
+[u'antigua']
+
+
+(u'ab', 1)
+[u'taxicab']
+
+
+(u'af', 1)
+[u'deaf']
+
+
+(u'av', 1)
+[u'yugoslav']
+
+
+(u'ib', 1)
+[u'crib']
+
+
+(u'ie', 1)
+[u'lie']
+
+
+(u'ni', 1)
+[u'alumni']
+
+
+(u'no', 1)
+[u'casino']
+
+
+(u'fp', 1)
+[u'vfp']
+
+
+(u'fs', 1)
+[u'foodstuffs']
+
+
+(u'lm', 1)
+[u'film']
+
+
+(u'ka', 1)
+[u'alaska']
+
+
+(u'so', 1)
+[u'also']
+
+
+(u'sl', 1)
+[u'isl']
+
+

@@ -1,0 +1,4 @@
+Class_type	Count	ConceptNet	Glove	Legal
+Definitions	5727	5513	5584	5556
+Gloss	8488	7862	8020	7964
+Other	21254	15910	15743	15626
