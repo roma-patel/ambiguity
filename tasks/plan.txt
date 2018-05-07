@@ -1,0 +1,16 @@
+task_1
+document level
+
+task_2
+word level + lstm(sentence context)
+
+task_3
+3 classes and collapse classes at test time
+
+task_4
+train on collapsed classes
+1. {D} {G, O} in models_1
+2. {D, G} {O} in models_2
+
+task_5
+train on titles instead of test fold, test on held out sampled from all titles
